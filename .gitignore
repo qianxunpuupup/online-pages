@@ -1,0 +1,5 @@
+# 依赖与构建缓存（不参与 GitHub Pages 部署）
+node_modules/
+photoWall-src/node_modules/
+.DS_Store
+*.log
