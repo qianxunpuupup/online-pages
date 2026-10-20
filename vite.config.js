@@ -5,7 +5,7 @@ export default defineConfig({
   base: './',
   plugins: [vue()],
   build: {
-    outDir: '../photoWall',
+    outDir: 'docs',
     emptyOutDir: true,
     assetsDir: 'assets'
   }
