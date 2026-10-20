@@ -1,21 +1,18 @@
 {
-  "name": "taskflow-todolist",
+  "name": "photo-wall",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "TaskFlow - 一个简洁优雅的待办清单应用",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide-react": "^0.460.0",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^5.4.10"
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
   }
 }
